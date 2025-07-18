@@ -142,9 +142,7 @@ export default function LandingPage() {
               <p
                 className="text-white/80 mb-8 max-w-2xl mx-auto text-lg sm:text-xl lg:text-2xl leading-relaxed px-2"
               >
-                Project Physica offers dynamic question banks, simplified Feynman lectures, interactive simulations,
-                expert mentorship, and structured bootcamps to help you conquer physics challenges and achieve your
-                academic goals.
+                Master physics and reach your academic goals with Project Physica.
               </p>
               {/* CTA Buttons */}
               <form className="flex flex-col gap-4 max-w-xl mx-auto" onSubmit={handleWaitlistSubmit}>
